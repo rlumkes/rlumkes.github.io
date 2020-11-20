@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Welcome!"
-  avatar           : "profile.png"
+  avatar           : "20200617_112630.jpg"
   bio              : "Graduate student at WSU"
-  location         : "Washington"
+  location         : "Pullman, Washington"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://scholar.google.com/citations?view_op=list_works&hl=en&user=EOvPbDMAAAAJ&gmla=AJsN-F7h0tHlSU-qea11X3V6UA0sbhPITGwpjLxHKfXV6BWRAVqdfTb8lROlo62CaXvAXD9QtAPoCrdlyOsqUydobwoGp9LuanVEQpoR3_sX27_EMxrCvMdrNIov0Phon6QmapU3gucA"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
